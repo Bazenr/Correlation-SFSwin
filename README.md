@@ -34,6 +34,12 @@ pip install openpyxl
 pip install xlsxWriter
 ```
 
+# Training
+[tools/train.py](https://github.com/Bazenr/Correlation-SFSwin/blob/master/tools/train.py)
+
+# Test
+[tools/large_image_demo_fusion_cyclePredic.py](https://github.com/Bazenr/Correlation-SFSwin/blob/master/tools/large_image_demo_fusion_cyclePredict.py)
+
 # Links
 |**Content**|**Link**|
 |:--------|:-------------|
